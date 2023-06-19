@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&family=Noto+Sans&family=Roboto:ital,wght@1,700&family=Tillana:wght@500&display=swap');
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.button{
+    width: 52px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row{
+    margin: 4px 0;
+}
+
+.row input{
+    font-size: 18px;
+    margin: 0;
+    padding: 63px 57px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
